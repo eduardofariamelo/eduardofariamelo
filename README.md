@@ -1,6 +1,5 @@
 ### Hi! Eduardo Faria here 👋
-- 🔭 Working with front-end.
-- 🌱 Studying back-end
+- 🌱 Studyng back-end
 - 📫 Contact me on: edudefariamelo@gmail.com
 - 😄 Pronouns: ele/dele he/his
 
